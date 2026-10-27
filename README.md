@@ -25,3 +25,11 @@ Preguntas
 3. Playlist y Cancion es agregación: las canciones se crean afuera y se comparten. Parqueadero y Puesto es composición: el parqueadero crea los puestos y no existen sin él.
 4. totalCanciones es de la clase y se comparte entre todas. titulo es de cada objeto.
 5. Un método static no tiene objeto en curso, y this es el objeto en curso.
+
+   DIAGRAMAS
+
+   <img width="1200" height="640" alt="image" src="https://github.com/user-attachments/assets/9b151fff-f3b1-4e58-82d5-8fab0cd96ba2" />
+
+   <img width="1200" height="560" alt="image" src="https://github.com/user-attachments/assets/cdb493b4-6a09-4444-898a-304205088e4d" />
+
+
